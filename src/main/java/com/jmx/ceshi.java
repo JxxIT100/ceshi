@@ -6,7 +6,6 @@ public class ceshi {
             if(i == 50){
                 break;
             }
-            System.out.println(i);
         }
 
     }
